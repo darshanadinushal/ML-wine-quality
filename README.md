@@ -21,7 +21,6 @@ Clone the repository
 
 ```bash
 https://github.com/darshanadinushal/ML-wine-quality
-https://github.com/entbappy/End-to-End-Wine-Quality-Prediction
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
